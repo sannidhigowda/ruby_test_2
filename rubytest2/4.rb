@@ -8,3 +8,13 @@
     		end
     		c=Celsius.new	
     		c.to_fahrenheit(25)
+
+
+
+
+
+
+
+
+
+    		
